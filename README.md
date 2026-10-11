@@ -55,4 +55,14 @@ I'm always eager to learn, collaborate on projects, and connect with people in t
 
 🔗 [LinkedIn](https://www.linkedin.com/in/neelisetty-yasaswini-9b25272b6) | [GitHub](https://github.com/Yasaswini0801)
 
-⭐ Thanks for visiting my profile!
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasaswini0801&show_icons=true&hide_border=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasaswini0801&layout=compact&hide_border=true&theme=default)
+
+---
+
+⭐ *Thanks for visiting my profile!*
