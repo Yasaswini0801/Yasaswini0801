@@ -12,7 +12,7 @@ I'm passionate about exploring AI/ML technologies and building projects that sol
 - 💡 **Interests:** Artificial Intelligence, Deep Learning, and Computer Vision
 - 📫 **Email:** yasaswini8888@gmail.com
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/neelisetty-yasaswini-9b25272b6)
-- 🌐 **Portfolio:** [Visit my portfolio](https://yasaswini0801.github.io/yasaswini_portfolio/)
+- 🌐 **Portfolio:** [Visit my portfolio](https://yasaswini0801.github.io/Yasaswini-Portfolio/)
 
 ---
 
